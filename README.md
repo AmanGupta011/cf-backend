@@ -3,7 +3,7 @@
 It is a no-code tool to stress test codeforces problems which generates counter examples for your failing submissions.
 
 ## Frontend
-`https://github.com/AmanGupta011/cf-frontend`
+https://github.com/AmanGupta011/cf-frontend
 
 ## Setup
 1. **Clone repository**
